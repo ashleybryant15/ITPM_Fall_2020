@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Site
 
-You can use the [editor on GitHub](https://github.com/ashleybryant15/ITPM_Fall_2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Ashley Bryant and I am a student at Temple University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Helpgful Repos
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashleybryant15/ITPM_Fall_2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [Kyle Simpson’s You Don’t Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
+    Great resource to read more about how to use JavaScript.
+    
+2. [The Github account of Bootstrap](https://github.com/twbs/bootstrap)
+    I'm always using BootStrap so it's nice to have a reference for it in case I get stuck.
+    
+3. [8-month process of preparing for the Google interview](https://github.com/jwasham/coding-interview-university)
+    Coding interviews can be intimidating, so it's best to be as prepared at possible.
+    
+4. [A frequently updated collection public APIs](https://github.com/toddmotto/public-apis)
+    A ton of public APIs that can be used for free on my projects.
+    
+5. [Build your Own X](https://github.com/danistefanovic/build-your-own-x)
+    Learn how to build just about anything.
+    
