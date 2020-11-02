@@ -2,7 +2,7 @@
 
 My name is Ashley Bryant and I am a student at Temple University.
 
-# Helpgful Repos
+# Helpful Repos
 
 1. [Kyle Simpson’s You Don’t Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
     Great resource to read more about how to use JavaScript.
